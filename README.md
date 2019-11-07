@@ -1,6 +1,6 @@
 ## Aplicativo para mostrar repositórios
 
-<img src="/src/images/notes.jpeg"/>
+Com esse aplicativo é possível salvar qual repositório o usuário desejar. Utiliza a API de repositórios do GITHUB.
 
 ## Configuração para Instalação
 
